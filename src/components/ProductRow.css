@@ -1,0 +1,241 @@
+.header-child {
+  height: 50px;
+  width: 985px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #1c1c1c;
+  display: none;
+  max-width: 100%;
+}
+.product {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 60px;
+  z-index: 1;
+}
+.header-labels {
+  width: 242px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.price {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 39px;
+  z-index: 1;
+}
+.header-labels1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px 0 0;
+}
+.quantity1,
+.total {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 66px;
+  z-index: 1;
+}
+.total {
+  min-width: 38px;
+}
+.header8 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #1c1c1c;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 38px 12px;
+  box-sizing: border-box;
+  gap: 147px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+}
+.cards-icon1 {
+  height: 77.5px;
+  width: 124px;
+  position: relative;
+  object-fit: cover;
+}
+.panorma-presents-gift1 {
+  width: 179px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.product-title {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  min-width: 169px;
+}
+.policy-navigation {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 57px;
+  white-space: nowrap;
+}
+.price-column {
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.icon-plus2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.adjust-quantity {
+  width: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.facebook-link {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 6px;
+}
+.adjust-quantity1 {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.socials-title {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #222930;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 7px 9px 7px 7px;
+  gap: 20px;
+}
+.app-download {
+  width: 109px;
+  height: 38px;
+  font-family: Lora;
+  font-size: 16px;
+  color: #fff;
+}
+.social-links {
+  width: 205px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 93px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  color: #222930;
+}
+.copyright {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 40px;
+  white-space: nowrap;
+}
+.cart-actions,
+.company-links {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.company-links {
+  width: 869px;
+  flex-direction: row;
+  gap: 15px;
+  color: #000;
+}
+.cart-actions {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 36px;
+}
+.country-selection {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.button6 {
+  width: 200px;
+  flex: 1;
+}
+.country-links,
+.product-row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.country-links {
+  align-self: stretch;
+  height: 90px;
+  gap: 35px;
+}
+.product-row {
+  flex: 1;
+  gap: 55px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Lora;
+}
+@media screen and (max-width: 1125px) {
+  .header8 {
+    gap: 73px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .company-links {
+    flex-wrap: wrap;
+  }
+  .cart-actions {
+    gap: 18px;
+  }
+  .country-links {
+    gap: 17px;
+  }
+  .product-row {
+    gap: 27px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header8 {
+    gap: 37px;
+  }
+}

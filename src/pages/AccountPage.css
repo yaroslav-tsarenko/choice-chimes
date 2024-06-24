@@ -1,0 +1,276 @@
+.item-about {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: Merriweather;
+  color: #000;
+}
+.about-hemingways,
+.testimonials {
+  position: relative;
+  line-height: 135%;
+}
+.testimonials {
+  align-self: stretch;
+}
+.blog,
+.evouchers,
+.vex-gift-cards {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 34px;
+}
+.evouchers,
+.vex-gift-cards {
+  min-width: 113px;
+}
+.evouchers {
+  min-width: 79px;
+}
+.about {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-questions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.delivery,
+.faqs,
+.help-contact,
+.how-to-redeem {
+  width: 131px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.delivery,
+.faqs,
+.how-to-redeem {
+  width: 73px;
+}
+.faqs,
+.how-to-redeem {
+  width: 47px;
+}
+.how-to-redeem {
+  width: 274px;
+}
+.help {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 4px;
+}
+.item-our {
+  margin: 0;
+  width: 217px;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.business-gifts,
+.cadbury-gifts-direct,
+.green-blacks {
+  position: relative;
+  line-height: 135%;
+}
+.corporate {
+  flex: 0.92;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-legal,
+.terms-conditions {
+  align-self: stretch;
+  position: relative;
+}
+.item-legal {
+  margin: 0;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.terms-conditions {
+  line-height: 135%;
+}
+.privacy-policy {
+  display: inline-block;
+  min-width: 106px;
+}
+.cookie-policy,
+.privacy-policy,
+.secure-shopping {
+  position: relative;
+  line-height: 135%;
+}
+.cookie-policy {
+  display: inline-block;
+  min-width: 103px;
+}
+.secure-shopping {
+  color: inherit;
+  text-decoration: none;
+  min-width: 126px;
+}
+.contact,
+.secure-shopping,
+.site-map {
+  display: inline-block;
+}
+.site-map {
+  position: relative;
+  line-height: 135%;
+  color: inherit;
+  text-decoration: none;
+  min-width: 67px;
+}
+.contact {
+  min-width: 61px;
+}
+.contact,
+.modern-slavery-statement {
+  position: relative;
+  line-height: 135%;
+}
+.about-parent,
+.legal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.legal {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 162px;
+}
+.about-parent {
+  width: 1165px;
+  flex-direction: row;
+  gap: 55px;
+  max-width: 100%;
+}
+.hemingways-marketing-services {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  color: #333;
+  text-align: right;
+}
+.footer-links {
+  align-items: center;
+  gap: 29px;
+  max-width: 100%;
+}
+.accountpage,
+.footer,
+.footer-links,
+.footer1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #bad6eb;
+  align-items: center;
+  padding: 80px 20px 65px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.accountpage,
+.footer {
+  overflow: hidden;
+  align-items: flex-start;
+}
+.footer {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Lora;
+}
+.accountpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .about-parent {
+    flex-wrap: wrap;
+  }
+  .accountpage {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .about-parent {
+    gap: 27px;
+  }
+  .footer {
+    gap: 24px;
+  }
+  .accountpage {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .item-our,
+  .item-questions {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .item-our {
+    line-height: 23px;
+  }
+  .corporate {
+    flex: 1;
+  }
+  .item-legal {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .footer1 {
+    padding-top: 52px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,463 @@
+.your-dashboard {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 120px;
+}
+.header2 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Lora;
+  font-size: 16px;
+  color: #fff;
+}
+.cards-icon {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.129);
+}
+.wrapper-cards {
+  height: 133px;
+  width: 124px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.panorma-presents-gift {
+  width: 179px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.card-name {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  min-width: 148px;
+}
+.download-credit-details {
+  white-space: nowrap;
+}
+.credits,
+.download-credit-details {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.download-items,
+.renewal-date {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  color: #000;
+}
+.renewal-date {
+  width: 564px;
+  flex-direction: row;
+  padding: 0 32px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  max-width: 100%;
+  color: #1c1c1c;
+}
+.hrs,
+.up-time {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.download-credits {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icons-block {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.renewal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+}
+.april-2024,
+.next-renewal {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.next-renewal-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.renewal-icons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1px 0 9px;
+}
+.cancel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 51px;
+}
+.icons-block1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.renewal-date2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.renew {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.cancellation,
+.renew-action {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.cancellation {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.renewal-date1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.dashboard-header,
+.download-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.download-item {
+  width: 183px;
+  align-items: flex-end;
+  gap: 7px;
+}
+.dashboard-header {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 44px;
+  max-width: 100%;
+}
+.download-renewal-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.dashboard-info,
+.download-renewal {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.download-renewal {
+  align-self: stretch;
+  gap: 15px;
+}
+.dashboard-info {
+  flex: 1;
+  gap: 36px;
+}
+.header3 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: Lora;
+  font-size: 16px;
+  color: #fff;
+  max-width: 100%;
+}
+.header-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.darnell-roob,
+.name {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.darnell-roob {
+  text-align: right;
+  min-width: 97px;
+}
+.checkout-data,
+.checkout-fields {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.checkout-data {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-fields {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.email-address {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 106px;
+}
+.darnellroobhotmailcom {
+  position: relative;
+  line-height: 22px;
+  text-align: right;
+  white-space: nowrap;
+}
+.checkout-field-details,
+.checkout-fields1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.checkout-field-details {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-fields1 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.basic,
+.plan {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 32px;
+}
+.basic {
+  text-align: right;
+  min-width: 39px;
+}
+.checkout-fields2,
+.plan-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.plan-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-fields2 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.april-20241,
+.expiry-date {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 88px;
+}
+.april-20241 {
+  text-align: right;
+  min-width: 101px;
+}
+.checkout-fields3,
+.expiry-date-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.expiry-date-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-fields3 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.auto-renewal,
+.on {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 102px;
+}
+.on {
+  text-align: right;
+  min-width: 23px;
+}
+.auto-renewal-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout-details,
+.checkout-fields4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.checkout-fields4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkout-details {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 32px;
+  gap: 32px;
+}
+.checkout-details-wrapper {
+  width: 504px;
+  background-color: #9f0132;
+  justify-content: flex-start;
+  min-width: 504px;
+}
+.checkout-details-wrapper,
+.dashboard,
+.dashboard-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.dashboard-content {
+  width: 1536px;
+  justify-content: flex-start;
+  gap: 47px;
+}
+.dashboard {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Lora;
+}
+@media screen and (max-width: 1275px) {
+  .checkout-details-wrapper {
+    flex: 1;
+  }
+  .dashboard-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .dashboard-header {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .renewal-date {
+    flex-wrap: wrap;
+  }
+  .dashboard-header {
+    gap: 22px;
+  }
+  .dashboard-info {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .checkout-details {
+    gap: 16px;
+  }
+  .checkout-details-wrapper {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .dashboard-content {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .checkout-data,
+  .checkout-field-details,
+  .expiry-date-parent,
+  .plan-parent {
+    flex-wrap: wrap;
+  }
+}

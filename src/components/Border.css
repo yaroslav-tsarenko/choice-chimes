@@ -1,0 +1,116 @@
+.link-icon9 {
+  height: 130px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.cards,
+.vex-gift-card {
+  align-self: stretch;
+  display: flex;
+}
+.cards {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 3px 0 4px;
+}
+.vex-gift-card {
+  height: 44px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.discover-over-150,
+.gift-card-gift {
+  margin: 0;
+}
+.discover-over-150-container,
+.info15 {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.discover-over-150-container {
+  align-self: stretch;
+  height: 78px;
+  color: #333;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.info15 {
+  display: inline-block;
+  min-width: 35px;
+}
+.card-info-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7.5px 0 0;
+}
+.buy14 {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: Lato;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 29px;
+}
+.link20 {
+  cursor: pointer;
+  border: 0;
+  padding: 4.5px 9px 5.5px 10px;
+  background-color: #d93a19;
+  border-radius: 3px;
+  justify-content: flex-start;
+}
+.link20:hover {
+  background-color: #ff6140;
+}
+.card-details,
+.card-info1,
+.link20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.card-info1 {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.card-details {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 17px;
+  color: #000;
+}
+.border3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid #d5d7d7;
+  box-sizing: border-box;
+  width: 264px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 9px 7px;
+  gap: 8px;
+  text-align: center;
+  font-size: 14px;
+  color: #337ab7;
+  font-family: Lora;
+}

@@ -1,0 +1,420 @@
+.cancellation-policy,
+.please-refer-to {
+  width: 1680px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.cancellation-policy {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.please-refer-to {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lora;
+}
+.content {
+  align-self: stretch;
+  background-color: #bad6eb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+}
+.lilylamb-kids-we1 {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+  display: inline-block;
+  max-width: 100%;
+}
+.cancellation-request-process {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.cancellation-request-process-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.cancellation-request {
+  width: 1120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information2,
+.contact-information3 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information3 {
+  padding-left: 43px;
+}
+.contact-information2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address-123-main1,
+.blank-line1,
+.brandname-customer-support1,
+.email-supportbrandnamecom1,
+.if-you-have1,
+.phone-1-800-123-45671 {
+  margin: 0;
+}
+.if-you-have-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.contact-information-group {
+  width: 1120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cancellation-policy1,
+.item-about2 {
+  align-self: stretch;
+  font-family: Merriweather;
+}
+.cancellation-policy1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+}
+.item-about2 {
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  color: #000;
+}
+.about-hemingways2,
+.testimonials2 {
+  position: relative;
+  line-height: 135%;
+}
+.testimonials2 {
+  align-self: stretch;
+}
+.blog2,
+.evouchers2,
+.vex-gift-cards2 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 34px;
+}
+.evouchers2,
+.vex-gift-cards2 {
+  min-width: 113px;
+}
+.evouchers2 {
+  min-width: 79px;
+}
+.about1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-questions2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.delivery2,
+.faqs2,
+.help-contact2,
+.how-to-redeem2 {
+  width: 131px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.delivery2,
+.faqs2,
+.how-to-redeem2 {
+  width: 73px;
+}
+.faqs2,
+.how-to-redeem2 {
+  width: 47px;
+}
+.how-to-redeem2 {
+  width: 274px;
+}
+.help1 {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 4px;
+}
+.item-our2 {
+  margin: 0;
+  width: 217px;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.business-gifts2,
+.cadbury-gifts-direct2,
+.green-blacks2 {
+  position: relative;
+  line-height: 135%;
+}
+.sister-sites {
+  flex: 0.92;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-legal2,
+.terms-conditions2 {
+  align-self: stretch;
+  position: relative;
+}
+.item-legal2 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.terms-conditions2 {
+  line-height: 135%;
+}
+.cookie-policy3,
+.privacy-policy2,
+.secure-shopping2,
+.site-map2 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 106px;
+}
+.cookie-policy3,
+.secure-shopping2,
+.site-map2 {
+  min-width: 103px;
+}
+.secure-shopping2,
+.site-map2 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 126px;
+}
+.site-map2 {
+  min-width: 67px;
+}
+.contact2 {
+  display: inline-block;
+  min-width: 61px;
+}
+.contact2,
+.modern-slavery-statement2 {
+  position: relative;
+  line-height: 135%;
+}
+.footer-column,
+.legal1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.legal1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 162px;
+}
+.footer-column {
+  width: 1165px;
+  flex-direction: row;
+  gap: 55px;
+  max-width: 100%;
+}
+.hemingways-marketing-services2 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  color: #333;
+  text-align: right;
+}
+.footer-column-parent {
+  align-items: center;
+  gap: 29px;
+  max-width: 100%;
+}
+.cancellationpolicypage,
+.footer-column-parent,
+.footer4,
+.footer5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer5 {
+  align-self: stretch;
+  background-color: #bad6eb;
+  align-items: center;
+  padding: 80px 20px 65px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cancellationpolicypage,
+.footer4 {
+  overflow: hidden;
+  align-items: flex-start;
+  color: #1c1c1c;
+}
+.footer4 {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  font-family: Lora;
+}
+.cancellationpolicypage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 1200px) {
+  .cancellation-policy1 {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cancellation-policy {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .cancellation-request-process-container,
+  .contact-information2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .footer-column {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cancellation-request,
+  .contact-information-group {
+    gap: 16px;
+  }
+  .cancellation-policy1 {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+  .footer-column {
+    gap: 27px;
+  }
+  .footer4 {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellation-policy {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .cancellation-request-process-container,
+  .contact-information2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .item-our2,
+  .item-questions2 {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .item-our2 {
+    line-height: 23px;
+  }
+  .sister-sites {
+    flex: 1;
+  }
+  .item-legal2 {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .footer5 {
+    padding-top: 52px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

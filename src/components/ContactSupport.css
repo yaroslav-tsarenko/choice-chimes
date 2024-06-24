@@ -1,0 +1,103 @@
+.contact-customer-support {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line2,
+.to-request-a {
+  margin: 0;
+}
+.the-gift-card,
+.your-name-and {
+  margin-bottom: 0;
+}
+.your-name-and-contact-informat {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.to-request-a-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.contact-support-steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.review-and-processing {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.our-customer-support {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.contact-support-steps1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.approved-refunds,
+.if-your-refund {
+  align-self: stretch;
+  position: relative;
+}
+.approved-refunds {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.if-your-refund {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.contact-support,
+.contact-support-steps2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.contact-support {
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 450px) {
+  .approved-refunds,
+  .contact-customer-support,
+  .review-and-processing {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

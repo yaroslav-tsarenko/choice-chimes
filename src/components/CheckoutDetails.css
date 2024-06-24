@@ -1,0 +1,187 @@
+.header9 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: Lora;
+  font-size: 16px;
+  color: #fff;
+  max-width: 100%;
+}
+.order-summary {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cart-subtotal1,
+.grand-total-label {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.grand-total-label {
+  text-align: right;
+  min-width: 60px;
+  white-space: nowrap;
+}
+.checkout-totals,
+.subtotal-values {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.subtotal-values {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkout-totals {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.other-taxes1,
+.shipping-handling1 {
+  position: relative;
+  line-height: 22px;
+}
+.other-taxes1 {
+  display: inline-block;
+  min-width: 91px;
+}
+.cost-breakdown {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.div5,
+.div6 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 42px;
+  white-space: nowrap;
+}
+.other-tax-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: right;
+}
+.shipping-costs,
+.shipping-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.shipping-costs {
+  flex: 1;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.shipping-details {
+  justify-content: flex-start;
+  padding: 0 25px;
+}
+.company-info,
+.shipping-details,
+.total-separator {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.company-info {
+  flex: 1;
+  position: relative;
+  border-top: 1px solid #cacaca;
+}
+.total-separator {
+  height: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 3px;
+}
+.div7,
+.grand-total1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 89px;
+}
+.div7 {
+  text-align: right;
+  min-width: 60px;
+  white-space: nowrap;
+}
+.grand-total-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.checkout-details3,
+.subtotal-summary {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.subtotal-summary {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkout-details3 {
+  width: 504px;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 41px;
+  gap: 32px;
+  min-width: 504px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Lora;
+}
+@media screen and (max-width: 1325px) {
+  .checkout-details3 {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 800px) {
+  .checkout-details3 {
+    gap: 16px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .grand-total-group,
+  .shipping-costs,
+  .subtotal-values {
+    flex-wrap: wrap;
+  }
+  .checkout-details3 {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

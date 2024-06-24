@@ -1,0 +1,741 @@
+.product-image-child {
+  height: 251px;
+  width: 236px;
+  position: relative;
+  display: none;
+}
+.image-4-icon {
+  height: 532px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.emoji-lightning-symbol {
+  height: 12px;
+  width: 6.2px;
+  position: relative;
+}
+.best-seller {
+  align-self: stretch;
+  width: 59px;
+  position: relative;
+  line-height: 16px;
+  display: none;
+}
+.product-image,
+.tags {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.tags {
+  height: 28px;
+  border-radius: 32px;
+  background: linear-gradient(90deg, #29c1f3, #464cf5);
+  display: none;
+  align-items: center;
+  padding: 6px 16px;
+  box-sizing: border-box;
+  gap: 8px;
+  white-space: nowrap;
+}
+.product-image {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #0a1757;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.blank-line,
+.key-features {
+  margin: 0;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: Merriweather;
+}
+.versatile-usage-redeemable {
+  line-height: 135%;
+}
+.versatile-usage-redeemable-at1 {
+  margin-bottom: 0;
+}
+.flexible-amounts-available {
+  line-height: 135%;
+}
+.flexible-amounts-available-in {
+  margin-bottom: 0;
+}
+.easy-to-purchase {
+  line-height: 135%;
+}
+.easy-to-purchase-quick-and-si {
+  margin-bottom: 0;
+}
+.no-expiry-date {
+  line-height: 135%;
+}
+.no-expiry-date-use-the-gift-c {
+  margin-bottom: 0;
+}
+.personalized-touch-include {
+  line-height: 135%;
+}
+.personalized-touch-include-a {
+  margin-bottom: 0;
+}
+.versatile-usage-redeemable-at {
+  margin: 0;
+  padding-left: 21px;
+}
+.how-it-works,
+.our-universal-gift,
+.why-choose-our {
+  margin: 0;
+  line-height: 135%;
+}
+.select-your-amount {
+  line-height: 135%;
+}
+.select-your-amount-choose-fro1 {
+  margin-bottom: 0;
+}
+.add-a-personal {
+  line-height: 135%;
+}
+.add-a-personal-message-includ {
+  margin-bottom: 0;
+}
+.choose-delivery-method {
+  line-height: 135%;
+}
+.choose-delivery-method-opt-fo {
+  margin-bottom: 0;
+}
+.enjoy-the-joy {
+  line-height: 135%;
+}
+.enjoy-the-joy-of-giving-sit-b {
+  margin-bottom: 0;
+}
+.select-your-amount-choose-fro {
+  margin: 0;
+  padding-left: 21px;
+}
+.perfect-for {
+  margin: 0;
+}
+.birthdays1,
+.perfect-for {
+  line-height: 135%;
+}
+.birthdays {
+  margin-bottom: 0;
+}
+.anniversaries1 {
+  line-height: 135%;
+}
+.anniversaries {
+  margin-bottom: 0;
+}
+.weddings1 {
+  line-height: 135%;
+}
+.weddings {
+  margin-bottom: 0;
+}
+.graduations1 {
+  line-height: 135%;
+}
+.graduations {
+  margin-bottom: 0;
+}
+.holidays1 {
+  line-height: 135%;
+}
+.holidays {
+  margin-bottom: 0;
+}
+.thank-you-gifts1 {
+  line-height: 135%;
+}
+.thank-you-gifts {
+  margin-bottom: 0;
+}
+.corporate-gifts {
+  line-height: 135%;
+}
+.birthdays-anniversaries-weddin {
+  margin: 0;
+  padding-left: 21px;
+}
+.key-features-versatile-container {
+  align-self: stretch;
+  height: 705px;
+  position: relative;
+  letter-spacing: -0.04px;
+  color: #000;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-family: Lora;
+}
+.product-details {
+  width: 686px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 686px;
+  max-width: 100%;
+}
+.the-perfect-gift {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  font-family: Lora;
+  color: #0187e6;
+}
+.universal-gift-card {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-spacing {
+  font-size: 32px;
+  line-height: 120%;
+  color: #0187e6;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.gift-spacing,
+.quantity,
+.surprise-your-loved {
+  position: relative;
+  display: inline-block;
+}
+.surprise-your-loved {
+  align-self: stretch;
+  height: 176px;
+  letter-spacing: -0.03px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.quantity {
+  line-height: 22px;
+  min-width: 78px;
+}
+.icon-plus {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.quantity-spacing {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 12px;
+}
+.icon-minus {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.quantity-buttons {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #1c1c1c;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 17px 6px 15px;
+  gap: 20px;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.quantity-selector {
+  width: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  font-size: 18px;
+}
+.button {
+  width: 235px;
+  height: 60px;
+}
+.gift-description,
+.product-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gift-description {
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+  min-width: 238px;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+.product-info {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 88px;
+}
+.heading-4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.ms-gift-cards- {
+  width: 650px;
+  position: relative;
+  line-height: 135%;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.department-store-gift {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.alternative-header,
+.alternative-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.alternative-options {
+  align-self: stretch;
+  gap: 7px;
+  font-size: 16px;
+  color: #333;
+  font-family: Lora;
+}
+.alternative-header {
+  width: 709px;
+  gap: 20px;
+}
+.link-icon5 {
+  align-self: stretch;
+  height: 247px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.alternative-products {
+  width: 750px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.button1 {
+  height: 54px;
+  width: 100px;
+}
+.button2 {
+  height: 56px;
+  width: 205px;
+}
+.gift-alternatives,
+.product-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  max-width: 100%;
+}
+.product-buttons {
+  flex: 1;
+  justify-content: space-between;
+  min-width: 712px;
+  gap: 20px;
+}
+.gift-alternatives {
+  width: 750px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 55px 499px;
+  min-height: 518px;
+  font-size: 18px;
+  color: #000;
+  font-family: Merriweather;
+}
+.page-content,
+.product-info-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product-info-parent {
+  width: 1140px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.page-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Roboto;
+}
+.item-about3 {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: Merriweather;
+  color: #000;
+}
+.about-hemingways3,
+.testimonials3 {
+  position: relative;
+  line-height: 135%;
+}
+.testimonials3 {
+  align-self: stretch;
+}
+.blog3,
+.evouchers3,
+.vex-gift-cards3 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 34px;
+}
+.evouchers3,
+.vex-gift-cards3 {
+  min-width: 113px;
+}
+.evouchers3 {
+  min-width: 79px;
+}
+.about-links {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-questions3 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.delivery3,
+.faqs3,
+.help-contact3,
+.how-to-redeem3 {
+  width: 131px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.delivery3,
+.faqs3,
+.how-to-redeem3 {
+  width: 73px;
+}
+.faqs3,
+.how-to-redeem3 {
+  width: 47px;
+}
+.how-to-redeem3 {
+  width: 274px;
+}
+.help-links {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 4px;
+}
+.item-our3 {
+  margin: 0;
+  width: 217px;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.business-gifts3,
+.cadbury-gifts-direct3,
+.green-blacks3 {
+  position: relative;
+  line-height: 135%;
+}
+.sister-sites1 {
+  flex: 0.92;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-legal3,
+.terms-conditions3 {
+  align-self: stretch;
+  position: relative;
+}
+.item-legal3 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.terms-conditions3 {
+  line-height: 135%;
+}
+.cookie-policy3,
+.privacy-policy3,
+.secure-shopping3,
+.site-map3 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 106px;
+}
+.cookie-policy3,
+.secure-shopping3,
+.site-map3 {
+  min-width: 103px;
+}
+.secure-shopping3,
+.site-map3 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 126px;
+}
+.site-map3 {
+  min-width: 67px;
+}
+.contact3 {
+  display: inline-block;
+  min-width: 61px;
+}
+.contact3,
+.modern-slavery-statement3 {
+  position: relative;
+  line-height: 135%;
+}
+.legal-links,
+.link-columns {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.legal-links {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 162px;
+}
+.link-columns {
+  width: 1165px;
+  flex-direction: row;
+  gap: 55px;
+  max-width: 100%;
+}
+.hemingways-marketing-services3 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  color: #333;
+  text-align: right;
+}
+.footer-links {
+  align-items: center;
+  gap: 29px;
+  max-width: 100%;
+}
+.footer-links,
+.footer6,
+.footer7,
+.productpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer7 {
+  align-self: stretch;
+  background-color: #bad6eb;
+  align-items: center;
+  padding: 80px 20px 65px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer6,
+.productpage {
+  overflow: hidden;
+  align-items: flex-start;
+}
+.footer6 {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Lora;
+}
+.productpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .product-info {
+    gap: 44px;
+  }
+  .gift-alternatives {
+    gap: 249px;
+  }
+  .page-content {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .product-details {
+    flex: 1;
+  }
+  .universal-gift-card {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .gift-spacing {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .product-info {
+    flex-wrap: wrap;
+  }
+  .page-content {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .link-columns {
+    flex-wrap: wrap;
+  }
+  .productpage {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .product-details {
+    min-width: 100%;
+  }
+  .product-info {
+    gap: 22px;
+  }
+  .product-buttons {
+    min-width: 100%;
+  }
+  .gift-alternatives {
+    gap: 125px;
+  }
+  .page-content {
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+  .link-columns {
+    gap: 27px;
+  }
+  .footer6 {
+    gap: 24px;
+  }
+  .productpage {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .universal-gift-card {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .gift-spacing {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .quantity-spacing {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .product-buttons {
+    flex-wrap: wrap;
+  }
+  .gift-alternatives {
+    gap: 62px;
+  }
+  .item-our3,
+  .item-questions3 {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .item-our3 {
+    line-height: 23px;
+  }
+  .sister-sites1 {
+    flex: 1;
+  }
+  .item-legal3 {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .footer7 {
+    padding-top: 52px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

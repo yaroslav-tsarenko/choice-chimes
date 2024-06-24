@@ -1,0 +1,708 @@
+.cookie-policy1 {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.cookie-policy-wrapper {
+  align-self: stretch;
+  background-color: #bad6eb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lilylamb-kids-we {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+  display: inline-block;
+  max-width: 100%;
+}
+.what-are-cookies {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.definition-of-cookies,
+.what-are-cookies-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.definition-of-cookies {
+  line-height: 29px;
+}
+.cookies-are-small {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.definition-of-cookies-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.types-of-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line,
+.there-are-several {
+  margin: 0;
+}
+.first-party-cookies-these,
+.session-cookies-these,
+.third-party-cookies-these {
+  margin-bottom: 0;
+}
+.first-party-cookies-these-are {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.there-are-several-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.types-of-cookies-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-parent,
+.types-of-cookies-parent,
+.what-are-cookies-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.what-are-cookies-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.how-we-use-cookies {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.essential-cookies,
+.how-we-use-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.essential-cookies {
+  line-height: 29px;
+}
+.essential-cookies-are {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.cookies-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.performance-and-analytics {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.performance-and-analytics1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.cookies-list1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.functionality-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.functionality-cookies-allow {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.cookies-list2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.advertising-and-targeting {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.advertising-and-targeting1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.cookies-list3 {
+  align-self: stretch;
+  gap: 16px;
+}
+.cookies-list3,
+.cookies-types,
+.how-we-use-cookies-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cookies-types {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.how-we-use-cookies-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.managing-cookies1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.browser-settings,
+.managing-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.browser-settings {
+  line-height: 29px;
+}
+.most-web-browsers {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.manage-cookies-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.opt-out-options {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-online-choices {
+  color: inherit;
+}
+.you-can-opt-container {
+  align-self: stretch;
+  height: 66px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+  display: inline-block;
+}
+.manage-cookies-list1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.consequences-of-disabling {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.if-you-choose {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.manage-cookies-list2 {
+  align-self: stretch;
+  gap: 16px;
+}
+.manage-cookies-list2,
+.manage-cookies-options,
+.managing-cookies-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.manage-cookies-options {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.managing-cookies-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information,
+.contact-information1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information1 {
+  padding-left: 43px;
+}
+.contact-information {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address-123-main,
+.brandname-customer-support,
+.email-supportbrandnamecom,
+.if-you-have,
+.phone-1-800-123-4567 {
+  margin: 0;
+}
+.if-you-have-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lora;
+}
+.contact-information-parent,
+.lilylamb-kids-we-us-or-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-information-parent {
+  width: 1120px;
+  align-items: flex-start;
+  gap: 32px;
+}
+.lilylamb-kids-we-us-or-parent {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+.item-about1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  font-family: Merriweather;
+  color: #000;
+}
+.about-hemingways1,
+.testimonials1 {
+  position: relative;
+  line-height: 135%;
+}
+.testimonials1 {
+  align-self: stretch;
+}
+.blog1,
+.evouchers1,
+.vex-gift-cards1 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 34px;
+}
+.evouchers1,
+.vex-gift-cards1 {
+  min-width: 113px;
+}
+.evouchers1 {
+  min-width: 79px;
+}
+.company-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-questions1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.delivery1,
+.faqs1,
+.help-contact1,
+.how-to-redeem1 {
+  width: 131px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.delivery1,
+.faqs1,
+.how-to-redeem1 {
+  width: 73px;
+}
+.faqs1,
+.how-to-redeem1 {
+  width: 47px;
+}
+.how-to-redeem1 {
+  width: 274px;
+}
+.help-info {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 4px;
+}
+.item-our1 {
+  margin: 0;
+  width: 217px;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.business-gifts1,
+.cadbury-gifts-direct1,
+.green-blacks1 {
+  position: relative;
+  line-height: 135%;
+}
+.sister-sites-info {
+  flex: 0.92;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 4px;
+  min-width: 162px;
+}
+.item-legal1,
+.terms-conditions1 {
+  align-self: stretch;
+  position: relative;
+}
+.item-legal1 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: Merriweather;
+  color: #000;
+}
+.terms-conditions1 {
+  line-height: 135%;
+}
+.cookie-policy2,
+.privacy-policy1,
+.secure-shopping1,
+.site-map1 {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 106px;
+}
+.cookie-policy2,
+.secure-shopping1,
+.site-map1 {
+  min-width: 103px;
+}
+.secure-shopping1,
+.site-map1 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 126px;
+}
+.site-map1 {
+  min-width: 67px;
+}
+.contact1 {
+  display: inline-block;
+  min-width: 61px;
+}
+.contact1,
+.modern-slavery-statement1 {
+  position: relative;
+  line-height: 135%;
+}
+.footer-columns,
+.legal-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.legal-info {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 162px;
+}
+.footer-columns {
+  width: 1165px;
+  flex-direction: row;
+  gap: 55px;
+  max-width: 100%;
+}
+.hemingways-marketing-services1 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  color: #333;
+  text-align: right;
+}
+.footer-links1 {
+  align-items: center;
+  gap: 29px;
+  max-width: 100%;
+}
+.cookiepolicypage,
+.footer-links1,
+.footer2,
+.footer3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer3 {
+  align-self: stretch;
+  background-color: #bad6eb;
+  align-items: center;
+  padding: 80px 20px 65px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cookiepolicypage,
+.footer2 {
+  overflow: hidden;
+  align-items: flex-start;
+  color: #1c1c1c;
+}
+.footer2 {
+  align-self: stretch;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  font-family: Lora;
+}
+.cookiepolicypage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 1200px) {
+  .lilylamb-kids-we-us-or-parent {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cookie-policy1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .contact-information,
+  .how-we-use-container,
+  .managing-cookies,
+  .what-are-cookies-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .footer-columns {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .contact-information-parent,
+  .how-we-use-cookies-parent,
+  .managing-cookies-parent,
+  .what-are-cookies-parent {
+    gap: 16px;
+  }
+  .lilylamb-kids-we-us-or-parent {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+  .footer-columns {
+    gap: 27px;
+  }
+  .footer2 {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cookie-policy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .advertising-and-targeting,
+  .browser-settings,
+  .consequences-of-disabling,
+  .contact-information,
+  .definition-of-cookies,
+  .essential-cookies,
+  .functionality-cookies,
+  .how-we-use-container,
+  .managing-cookies,
+  .opt-out-options,
+  .performance-and-analytics,
+  .types-of-cookies,
+  .what-are-cookies-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .item-our1,
+  .item-questions1 {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .item-our1 {
+    line-height: 23px;
+  }
+  .sister-sites-info {
+    flex: 1;
+  }
+  .item-legal1 {
+    font-size: 19px;
+    line-height: 16px;
+  }
+  .footer3 {
+    padding-top: 52px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
